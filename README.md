@@ -4,8 +4,8 @@
 
 Use our API to easily add the powerful functionality of ClickMeeting Video Conferencing to your favorite applications.
 
-[1]: https://github.com/f718853/test/tree/master/API/README.md
-[2]: https://raw.github.com/GetResponse/DevZone/master/API/icon.png
+[1]: https://github.com/ClickMeeting/DevZone/tree/master/API/README.md
+[2]: https://raw.github.com/ClickMeeting/DevZone/tree/master/API/icon.png
 
 #SUPPORT
 
